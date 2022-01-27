@@ -1,2 +1,2 @@
-config1
-config2
+config:
+  info: master config-dev.yml
